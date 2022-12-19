@@ -6,7 +6,7 @@ int main(){
 
         int einwurf=0;
         printf("Getränke Automat  | Bitte werfen Sie 1 Euro ein: ");
-        scanf("%d", &einwurf);
+        scanf("%d", &einwurf
 
         // überprüfe Geldstück
         if(einwurf == 1) {
